@@ -1,6 +1,6 @@
 # Marketplace Product Analytics
 
-## 📌 About the project
+##  About the project
 
 This repository contains an end-to-end product analytics project for a marketplace.
 
@@ -44,5 +44,5 @@ presentation/
 
 ## Project Status
 
-🚧 In Progress
+ In Progress
 
