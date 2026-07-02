@@ -1,23 +1,48 @@
 # Marketplace Product Analytics
 
-Учебный проект по продуктовой аналитике маркетплейса.
+## 📌 About the project
 
-## Стек
+This repository contains an end-to-end product analytics project for a marketplace.
 
-- SQL
-- PostgreSQL
-- Python
-- Pandas
-- Matplotlib
+The goal is to simulate the work of a Product Analyst by analyzing user behavior, product metrics, and the impact of product changes using SQL and Python.
 
-## Анализ
+---
 
-- Funnel Analysis
-- Retention
-- RFM Segmentation
-- Session Analysis
-- A/B Testing
+## Project Goals
 
-## Цель
+* Analyze user behavior
+* Build product funnels
+* Calculate retention
+* Perform RFM analysis
+* Analyze user sessions
+* Conduct A/B testing
+* Calculate business metrics (Revenue, ARPU, ARPPU)
 
-Оценить влияние продуктовых изменений на конверсию, выручку и удержание пользователей.
+---
+
+## Tech Stack
+
+* SQL (PostgreSQL)
+* Python
+* Pandas
+* Matplotlib
+* Git
+
+---
+
+## Repository Structure
+
+```text
+data/
+sql/
+notebooks/
+dashboards/
+presentation/
+```
+
+---
+
+## Project Status
+
+🚧 In Progress
+
